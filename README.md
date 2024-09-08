@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="130" src="https://media.tenor.com/RoLRxf8N3MIAAAAj/miku-wave.gif" />
+<img align="right" width="130" src="https://i.pinimg.com/originals/6d/6b/02/6d6b02693a695746c40327ad1fa2e4ac.gif" />
 
 ```python
 class AboutMe():
