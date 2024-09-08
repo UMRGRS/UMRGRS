@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="130" src="https://i.pinimg.com/originals/6d/6b/02/6d6b02693a695746c40327ad1fa2e4ac.gif" />
+<img align="right" width="130" src="https://steamuserimages-a.akamaihd.net/ugc/2057620660587627875/8E8F1040014DF9CDC704F0A7D4CBAC2D6712892D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
 ```python
 class AboutMe():
